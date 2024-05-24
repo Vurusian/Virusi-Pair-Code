@@ -6,7 +6,7 @@
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "./index.js"
+    "start": "index.js"
   },
   "author": "Gifted Tech",
   "license": "GPL-3.0 license",
