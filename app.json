@@ -1,0 +1,22 @@
+{
+    "name": "virusi-md-session",
+    "description": "I am Virusi-Mbaya-Md. A Simple Multidevice Whatsapp Bot built in NodeJs to make experience better.",
+    "logo": "https://github.com/Vurusian.png",
+    "repository": "https://github.com/Vurusian/Virusi-Pair-Code",
+    "keywords": ["whatsappbot", "virusiMd", "Virusi Md Whatsapp Bot","multi device"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "Don't Fill in As it Will be of no Use",
+        "required": false 
+      }
+    }   
+
+}
