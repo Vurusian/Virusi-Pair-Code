@@ -1,12 +1,12 @@
 {
     "description": "qr",
-    "main": "./index.js",
+    "main": "virusi.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "index.js"
+    "start": "node virusi.js"
   },
   "author": "Gifted Tech",
   "license": "GPL-3.0 license",
