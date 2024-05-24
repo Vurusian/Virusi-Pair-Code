@@ -6,7 +6,7 @@
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "virusi.js"
+    "start": "./virusi.js"
   },
   "author": "Gifted Tech",
   "license": "GPL-3.0 license",
