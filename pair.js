@@ -57,11 +57,11 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: 'Virusi;;;' + b64data });
 
                let GIFTED_MD_TEXT = `
-*✅sᴇssɪᴏɴ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅*
+*🦠 sᴇssɪᴏɴ ᴄᴏɴɴᴇᴄᴛᴇᴅ 🦠*
 *Made With 💜*
 ______________________________
 ╔════◇
-║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝗩𝗜𝗥𝗨𝗦𝗜 𝗠𝗕𝗔𝗬𝗔 𝐌𝐃 』
+║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝗩𝗜𝗥𝗨𝗦𝗜 🦠 𝗠𝗕𝗔𝗬𝗔 𝐌𝐃 』
 ║ You've Completed the First Step
 ║ to Deploy a Whatsapp Bot.
 ╚══════════════╝
@@ -71,10 +71,10 @@ ______________________________
 ║❒ 𝐑𝐞𝐩𝐨: _https://github.com/Vurusian/Virusi-Mbaya-Md_
 ║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/CMqZ1qwJFKXLP4UKVTnhhL_
 ║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VafL5zUKbYMKza6vAv1V_
-║ 💜💜💜
-╚══════════════╝ 
-______________________________
-
+║❒ YouTube Channel:
+_https://youtu.be/FQDs-EiZGng?si=8CJazP-9IOmyKf0a
+║ 💜💜💜Don't ForgetTo Give Star⭐ To My Repo 🦠🦟
+╚══════════════╝----------
 Don't Forget To Give Star⭐ To My Repo`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
