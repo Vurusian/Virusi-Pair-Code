@@ -69,7 +69,7 @@ ______________________________
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254748721079_
 ║❒ 𝐑𝐞𝐩𝐨: _https://github.com/Vurusian/Virusi-Mbaya-Md_
-║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/CMqZ1qwJFKXLP4UKVTnhhL_
+║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/Gkaa5BXfTc95a5DqeRjlmm
 ║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VafL5zUKbYMKza6vAv1V_
 ║❒ YouTube Channel:
 _https://youtu.be/FQDs-EiZGng?si=8CJazP-9IOmyKf0a
